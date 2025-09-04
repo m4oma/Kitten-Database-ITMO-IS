@@ -1,0 +1,11 @@
+scenarios/MistressScenario.class
+controllers/MistressControllerInterface.class
+scenarios/ScenarioInterface.class
+Main.class
+scenarios/WhoAmI.class
+controllers/KittenControllerInterface.class
+scenarios/KittenScenario.class
+controllers/MistressController.class
+scenarios/DefaultScenario.class
+controllers/KittenController.class
+utils/Scanner.class

@@ -1,0 +1,8 @@
+ru/m4oma/models/Kitten.class
+ru/m4oma/models/Colour.class
+ru/m4oma/models/Role.class
+ru/m4oma/models/Mistress.class
+ru/m4oma/models/Breed.class
+ru/m4oma/models/MistressInterface.class
+ru/m4oma/models/AppUser.class
+ru/m4oma/models/KittenInterface.class

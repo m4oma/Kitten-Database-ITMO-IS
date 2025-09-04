@@ -1,0 +1,5 @@
+ru/m4oma/repositories/specifications/KittenSpecifications.class
+ru/m4oma/repositories/specifications/MistressSpecifications.class
+ru/m4oma/repositories/KittenRepository.class
+ru/m4oma/repositories/MistressRepository.class
+ru/m4oma/repositories/AppUserRepository.class

@@ -1,0 +1,7 @@
+models/Mistress.class
+models/Colour.class
+models/KittenInterface.class
+models/Breed.class
+models/Kitten.class
+models/MistressInterface.class
+exceptions/FaithfulKittenException.class

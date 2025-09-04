@@ -1,0 +1,52 @@
+@options
+@packages
+-classpath
+'/Users/grigoriyosikin/.m2/repository/org/projectlombok/lombok/1.18.36/lombok-1.18.36.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/src/main/java:/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lab1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'lab1 1.0-SNAPSHOT API'
+ru.m4oma.Exceptions
+ru.m4oma
+/Users/grigoriyosikin/.m2/repository/org/projectlombok/lombok/1.18.36/lombok-1.18.36.jar = 1731631169000
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/src/main/java = 1752407503158
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/generated-sources/annotations = 1756907417958
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/tag-search-index.js = 1757002576986
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/overview-tree.html = 1757002576981
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/module-search-index.js = 1757002576986
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/index.html = 1757002576981
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/package-search-index.js = 1757002576986
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/link.svg = 1757002576996
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/serialized-form.html = 1757002576971
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/index-all.html = 1757002576990
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/allpackages-index.html = 1757002576985
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/member-search-index.js = 1757002576986
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/copy.svg = 1757002576996
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/script.js = 1757002576996
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/stylesheet.css = 1757002576996
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/search-page.js = 1757002576997
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/overview-summary.html = 1757002576992
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/help-doc.html = 1757002576995
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/element-list = 1757002576963
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/search.html = 1757002576990
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/allclasses-index.html = 1757002576985
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/type-search-index.js = 1757002576986
+/Users/grigoriyosikin/IdeaProjects/m4oma/lab1/target/site/apidocs/search.js = 1757002576997

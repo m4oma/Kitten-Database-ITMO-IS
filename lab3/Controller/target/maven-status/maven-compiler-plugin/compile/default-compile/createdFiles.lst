@@ -1,0 +1,11 @@
+ru/m4oma/controllers/AdminInitializer.class
+ru/m4oma/exceptions/UniversalExceptionHandler.class
+ru/m4oma/controllers/KittenController.class
+ru/m4oma/controllers/UserController.class
+ru/m4oma/exceptions/ExceptionHandlingFilter.class
+ru/m4oma/KittenApplication.class
+ru/m4oma/config/SwaggerConfig.class
+ru/m4oma/security/JwtAuthenticationFilter.class
+ru/m4oma/controllers/MistressController.class
+ru/m4oma/controllers/AuthController.class
+ru/m4oma/security/SecurityConfig.class

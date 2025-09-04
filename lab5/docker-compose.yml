@@ -1,0 +1,51 @@
+services:
+  postgres-kitten:
+    image: postgres:latest
+    container_name: postgres_kitten
+    environment:
+      POSTGRES_DB: kitten_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata_kitten:/var/lib/postgresql/data
+
+  postgres-mistress:
+    image: postgres:latest
+    container_name: postgres_mistress
+    environment:
+      POSTGRES_DB: mistress_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5434:5432"
+    volumes:
+      - pgdata_mistress:/var/lib/postgresql/data
+
+  postgres-gateway:
+    image: postgres:latest
+    container_name: postgres_gateway
+    environment:
+      POSTGRES_DB: gateway_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5435:5432"
+    volumes:
+      - pgdata_gateway:/var/lib/postgresql/data
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+
+volumes:
+  pgdata_kitten:
+  pgdata_mistress:
+  pgdata_gateway:
